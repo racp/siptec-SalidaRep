@@ -1,0 +1,7 @@
+{
+  "name": "siptecSalidaRep",
+  "short_name": "siptecSalidaRep",
+  "description": "Salida del reporte disco, impresora o disco",
+  "start_url": "/",
+  "display": "standalone"
+}
